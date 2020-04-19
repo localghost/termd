@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 structopt = "0.3.13"
 termimad = "0.8.17"
+notify = "5.0.0-pre.2"
